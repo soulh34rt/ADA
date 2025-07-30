@@ -7,7 +7,7 @@
 <p align="center"> Text me:
   https://t.me/Awr2fw</p> 
 <p align="center">
-  <strong>IT Management Engineering student</strong><br>
+  <strong>TI Management Engineering student</strong><br>
   Focused on <strong>Cybersecurity</strong> & <strong>Information Protection</strong><br>
   Passionate about <code>Python</code>, <code>WebDev</code>, and <code>Modding Tools aka breaking my Favorite games in my free time</code>
 </p>
