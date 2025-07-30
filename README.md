@@ -29,7 +29,7 @@ I believe in learning by experience, late-night mental breakdown sessions, and g
  Modding, bypassing and exploiting old consoles and hardware.
  Python scripting for automation.  
  Tinkering with data, networks, and my own machines.
- Digital paiting, WebToon storyboarder, music composer good old games enjoyner and  
+
 
 ---
 
