@@ -1,6 +1,11 @@
 <h1 align="center"> Musi Musi — ADA / Soulheart </h1>
 
 <p align="center">
+  <img src="./ADA.webp" alt="ADA" width="300"/>
+</p>
+
+
+<p align="center">
   <strong>IT Management Engineering student</strong><br>
   Focused on <strong>Cybersecurity</strong> & <strong>Information Protection</strong><br>
   Passionate about <code>Python</code>, <code>WebDev</code>, and <code>Modding Tools aka breaking my Favorite games in my free time</code>
@@ -36,4 +41,6 @@ Cybersec:      VirtualBox, Wireshark, Burp Suite, custom scripts
 Modding:       Hex editors, game engines, memory patching, Ren'Py, Godot and RPG MAKER
 Tools:         Git, Archlinux, VS Code, VIM, CodeBlocks, Autodesk Maya,  Debloated Win10 and many many machines... FOSS everything
 Extras:        Digital paiting, WebToon storyboarder, music composer, Rats Enjoyner and good old games user. 
+
+
 
