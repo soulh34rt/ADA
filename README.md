@@ -41,7 +41,7 @@ WebDev:        Flask, Jinja2, Tailwind, Node.js
 Cybersec:      VirtualBox, Wireshark, Burp Suite, custom scripts
 Modding:       Hex editors, game engines, memory patching, Ren'Py, Godot and RPG MAKER
 Tools:         Git, Archlinux, VS Code, VIM, CodeBlocks, Autodesk Maya,  Debloated Win10 and many many machines... FOSS everything
-Extras:        Digital paiting, WebToon storyboarder, music composer, Rats Enjoyner and good old games user. 
+Extras:        Digital painting, WebToon storyboarder, music composer, Rats Enjoyner and good old games user. 
 
 
 
