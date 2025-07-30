@@ -4,7 +4,8 @@
   <img src="./ADA.webp" alt="ADA" width="300"/>
 </p>
 
-
+<p align="center"> Text me:
+  https://t.me/Awr2fw</p> 
 <p align="center">
   <strong>IT Management Engineering student</strong><br>
   Focused on <strong>Cybersecurity</strong> & <strong>Information Protection</strong><br>
