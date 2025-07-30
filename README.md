@@ -18,7 +18,7 @@
 
 Hallo I'm **ADA**, also known as **Soulheart** in some places.  
 I spend my time building things and breaking things.  
-I believe in learning by experience, late-night mental breakdown sessions, and giving everything a artsy touch.
+I believe in learning by experience, late-night mental breakdown sessions and giving everything a artsy touch.
 
 ---
 
